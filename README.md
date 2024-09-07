@@ -1,2 +1,2 @@
 # tomcart
-New theme namely tomacart
+New theme namely tomcart
